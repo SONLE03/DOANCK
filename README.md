@@ -49,13 +49,13 @@
 
 ## Tác giả 
 
-* [Lê Hồng Sơn] - 21522553 - Team leader, Developer 
+* Lê Hồng Sơn - 21522553 - Team leader, Developer 
 
-* [Nguyễn Hoàng Minh Quân] - 21522495 - UI/UX designer, Developer 
+* Nguyễn Hoàng Minh Quân - 21522495 - UI/UX designer, Developer 
 
-* [Trần Lương] - 21522313 - Developer 
+* Trần Lương - 21522313 - Developer 
 
-* [Nguyễn Hồng Quang] - 21522511 - Developer 
+* Nguyễn Hồng Quang - 21522511 - Developer 
 
  * Sinh viên khoa Công nghệ Phần mềm, trường Đại học Công nghệ Thông tin, Đại học Quốc gia thành phố Hồ Chí Minh 
 
