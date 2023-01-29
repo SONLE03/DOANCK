@@ -67,9 +67,9 @@
 
 ### Với người sử dụng 
 
-* Liên hệ với nhà phát triển để được hỗ trợ khởi tạo cơ sở dữ liệu và kết nối đến cơ sở dữ liệu.
-
 * Download và giải nén phền mềm tại Github: https://github.com/SONLE03/DOANCK 
+
+* Liên hệ với nhà phát triển để được hỗ trợ khởi tạo cơ sở dữ liệu và kết nối đến cơ sở dữ liệu.
 
 * Giải nén và chạy file Setup.msi hoặc Setup.exe
 
