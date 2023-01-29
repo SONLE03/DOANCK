@@ -63,6 +63,24 @@
 
 * Thầy Nguyễn Tấn Toàn, giảng viên Khoa Công Nghệ Phần Mềm, trường Đại học Công nghệ Thông tin, Đại học Quốc gia Thành phố Hồ Chí Minh 
 
+## Hướng dẫn cài đặt 
+
+### Với người sử dụng 
+
+* Liên hệ với nhà phát triển để được hỗ trợ khởi tạo cơ sở dữ liệu và kết nối đến cơ sở dữ liệu.
+
+* Download và giải nén phền mềm tại Github: https://github.com/SONLE03/DOANCK 
+
+* Giải nén và chạy file Setup.msi hoặc Setup.exe
+
+### Với nhà phát triển 
+
+* Download và giải nén phền mềm tại Github: https://github.com/SONLE03/DOANCK 
+
+* Cài đặt SQL Server và khởi tạo Database bằng cách query script chứa trong file Database.sql (Có thể mở bằng word, notepad)
+
+* Mở file Supermaket.sln và kết nối phần mềm với Database vừa tạo   
+
 ## Phản hồi 
 
 Tạo phản hồi ở mục Issues, mỗi phản hồi của bạn sẽ giúp chúng tôi cải thiện ứng dụng tốt hơn. Cảm ơn vì sự giúp đỡ! 
