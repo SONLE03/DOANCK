@@ -57,8 +57,6 @@
 
 * Nguyễn Hồng Quang - 21522511 - Developer 
 
- * Sinh viên khoa Công nghệ Phần mềm, trường Đại học Công nghệ Thông tin, Đại học Quốc gia thành phố Hồ Chí Minh 
-
 ## Giảng viên hướng dẫn 
 
 * Thầy Nguyễn Tấn Toàn, giảng viên Khoa Công Nghệ Phần Mềm, trường Đại học Công nghệ Thông tin, Đại học Quốc gia Thành phố Hồ Chí Minh 
